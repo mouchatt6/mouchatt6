@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Junior at UCLA studying Economics and Statistics and Data Science with a minor in Mathematics. 
-\n 📊 Interested in Quant Finance and ML in Sports + Biotechnology
+I am a Junior at UCLA studying Economics and Statistics and Data Science with a minor in Mathematics. \ 
+📊 Interested in Quant Finance and ML in Sports + Biotechnology
