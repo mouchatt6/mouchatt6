@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Moulik! 👋
 
 <!--
 **mouchatt6/mouchatt6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Junior at UCLA studying Economics and Statistics and Data Science with a minor in Mathematics. 
+📊 Interested in Quant Finance and ML in Sports + Biotechnology
