@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 🎓 I am a Senior at UCLA studying Economics and Statistics and Data Science with a Minor in Mathematics. <br>
-📊 Interested in Asymmetric Investing, Sports Analytics, and Biotechnology Advancements
+📊 Interested in Asymmetric Investing (Public and Private Markets), Sports Analytics, and Biotechnology Advancements
